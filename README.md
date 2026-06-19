@@ -30,9 +30,8 @@ SQLMap doit être utilisé uniquement :
 
 ## Image mémo
 
-```markdown
-![SQLMap - Cheat Sheet](assets/sqlmap-cheat-sheet.png)
-```
+![SQLMap - Cheat Sheet](./sqlmap-cheat-sheet.png)
+
 
 ---
 
